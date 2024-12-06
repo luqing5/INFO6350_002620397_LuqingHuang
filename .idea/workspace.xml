@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d51c535c-83e6-48d4-96fa-d98cb78c1116" name="Changes" comment="finished app for exercise 3">
-      <change afterPath="$PROJECT_DIR$/exercises/exercise_4/basic_hero_animation/images/flippers-alpha.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/exercise_4/radial_hero_animation/images/beachball-alpha.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/exercise_4/radial_hero_animation/images/binoculars-alpha.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/exercise_4/radial_hero_animation/images/chair-alpha.png" afterDir="false" />
+    <list default="true" id="d51c535c-83e6-48d4-96fa-d98cb78c1116" name="Changes" comment="finished app for exercise 4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,9 +44,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Flutter.camera.dart.executor": "Run",
     "Flutter.hero.dart.executor": "Run",
     "Flutter.main.dart (1).executor": "Run",
     "Flutter.main.dart.executor": "Run",
+    "Flutter.radial.dart.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
@@ -76,9 +74,13 @@
       <recent name="$PROJECT_DIR$/exercises/exercise_4/images" />
     </key>
   </component>
-  <component name="RunManager" selected="Flutter.radial.dart">
+  <component name="RunManager" selected="Flutter.camera.dart">
     <configuration type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true">
       <option name="filePath" value="$PROJECT_DIR$/exercises/exercise_4/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="camera.dart" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/exercises/exercise_5/lib/camera.dart" />
       <method v="2" />
     </configuration>
     <configuration name="hero.dart" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
@@ -95,6 +97,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Flutter.camera.dart" />
         <item itemvalue="Flutter.radial.dart" />
         <item itemvalue="Flutter.hero.dart" />
         <item itemvalue="Flutter.main.dart" />
@@ -142,7 +145,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733401686603</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="finished app for exercise 4">
+      <option name="closed" value="true" />
+      <created>1733406785037</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1733406785037</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -150,6 +161,7 @@
     <MESSAGE value="delete" />
     <MESSAGE value="finished app" />
     <MESSAGE value="finished app for exercise 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished app for exercise 3" />
+    <MESSAGE value="finished app for exercise 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished app for exercise 4" />
   </component>
 </project>
