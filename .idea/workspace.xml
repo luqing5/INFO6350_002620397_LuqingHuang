@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d51c535c-83e6-48d4-96fa-d98cb78c1116" name="Changes" comment="finished app for exercise 5">
-      <change afterPath="$PROJECT_DIR$/exercises/exercise_5a/lib/AutoGate.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/exercise_5a/lib/HomePage.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/exercise_5a/lib/SignInPage.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/flutterfire_300x.png" afterDir="false" />
+    <list default="true" id="d51c535c-83e6-48d4-96fa-d98cb78c1116" name="Changes" comment="finished app for exercise 5a">
+      <change afterPath="$PROJECT_DIR$/exercises/exercise_6/android/app/google-services.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/exercise_6/lib/notification_screen.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/flutterfire_300x.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +42,7 @@
   }
 }</component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -54,28 +53,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Flutter.camera.dart.executor&quot;: &quot;Run&quot;,
-    &quot;Flutter.hero.dart.executor&quot;: &quot;Run&quot;,
-    &quot;Flutter.main.dart (1).executor&quot;: &quot;Run&quot;,
-    &quot;Flutter.main.dart.executor&quot;: &quot;Run&quot;,
-    &quot;Flutter.radial.dart.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;io.flutter.reload.alreadyRun&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/luqinghuang/Documents/GitHub/-INFO6350_002620397_LuqingHuang/exercises/exercise_4/radial_hero_animation/images&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
-    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Flutter.camera.dart.executor": "Run",
+    "Flutter.ex6.dart.executor": "Run",
+    "Flutter.hero.dart.executor": "Run",
+    "Flutter.main.dart (1).executor": "Run",
+    "Flutter.main.dart.executor": "Run",
+    "Flutter.radial.dart.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "io.flutter.reload.alreadyRun": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/luqinghuang/Documents/GitHub/-INFO6350_002620397_LuqingHuang/exercises/exercise_4/radial_hero_animation/images",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "show.migrate.to.gradle.popup": "false"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/exercises/exercise_4/radial_hero_animation/images" />
@@ -83,14 +83,20 @@
       <recent name="$PROJECT_DIR$/Exercises/exercise_3/images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/exercises/exercise_6/android/app" />
+      <recent name="$PROJECT_DIR$/exercises/exercise_6/android" />
       <recent name="$PROJECT_DIR$/exercises" />
       <recent name="$PROJECT_DIR$/exercises/exercise_5a/image" />
       <recent name="$PROJECT_DIR$/exercises/exercise_4/images" />
     </key>
   </component>
-  <component name="RunManager" selected="Flutter.main.dart (1)">
+  <component name="RunManager" selected="Flutter.ex6.dart">
     <configuration name="camera.dart" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/exercises/exercise_5/lib/camera.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex6.dart" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/exercises/exercise_6/lib/ex6.dart" />
       <method v="2" />
     </configuration>
     <configuration name="hero.dart" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
@@ -101,21 +107,17 @@
       <option name="filePath" value="$PROJECT_DIR$/exercises/exercise_5a/lib/main.dart" />
       <method v="2" />
     </configuration>
-    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/exercises/exercise_3/lib/main.dart" />
-      <method v="2" />
-    </configuration>
     <configuration name="radial.dart" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/exercises/exercise_4/radial_hero_animation/lib/radial.dart" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Flutter.ex6.dart" />
         <item itemvalue="Flutter.main.dart (1)" />
         <item itemvalue="Flutter.camera.dart" />
         <item itemvalue="Flutter.radial.dart" />
         <item itemvalue="Flutter.hero.dart" />
-        <item itemvalue="Flutter.main.dart" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +178,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733475647129</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="finished app for exercise 5a">
+      <option name="closed" value="true" />
+      <created>1733813974544</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1733813974544</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -197,6 +207,7 @@
     <MESSAGE value="finished app for exercise 3" />
     <MESSAGE value="finished app for exercise 4" />
     <MESSAGE value="finished app for exercise 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished app for exercise 5" />
+    <MESSAGE value="finished app for exercise 5a" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished app for exercise 5a" />
   </component>
 </project>
