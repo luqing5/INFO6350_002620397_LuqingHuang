@@ -1,4 +1,4 @@
-# exercise_7
+# google_maps_in_flutter
 
 A new Flutter project.
 
