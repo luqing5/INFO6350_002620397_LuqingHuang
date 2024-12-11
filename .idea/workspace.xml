@@ -4,138 +4,18 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d51c535c-83e6-48d4-96fa-d98cb78c1116" name="Changes" comment="finished app for exercise 5a">
-      <change afterPath="$PROJECT_DIR$/exercises/exercise_7/lib/locations.dart" afterDir="false" />
+    <list default="true" id="d51c535c-83e6-48d4-96fa-d98cb78c1116" name="Changes" comment="finished app for exercise 7">
+      <change afterPath="$PROJECT_DIR$/final_project/lib/acitivity/BrowsePostsAcitivity.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_project/lib/acitivity/ImageDisplayActivity.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_project/lib/acitivity/NewPostActivity.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_project/lib/acitivity/NewPostActivityForm.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_project/lib/acitivity/PostDetailActivity.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_project/lib/model/itemModel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_project/lib/utility/authentication.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_project/lib/utility/widgets.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_6/test/widget_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exercise_6/test/widget_test.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/.metadata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/analysis_options.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/android/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/android/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/android/app/src/main/kotlin/com/example/exercise_7/MainActivity.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/android/app/src/main/res/drawable-v21/launch_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/android/app/src/main/res/values-night/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/android/app/src/main/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/android/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/android/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/android/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/ios/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/ios/Flutter/Debug.xcconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/ios/Flutter/Release.xcconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/ios/Runner/AppDelegate.swift" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/ios/Runner/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/ios/RunnerTests/RunnerTests.swift" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/lib/main.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/linux/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/linux/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/linux/flutter/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/linux/flutter/generated_plugin_registrant.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/linux/flutter/generated_plugin_registrant.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/linux/flutter/generated_plugins.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/linux/main.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/linux/my_application.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/linux/my_application.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/macos/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/macos/Flutter/Flutter-Debug.xcconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/macos/Flutter/Flutter-Release.xcconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/macos/Flutter/GeneratedPluginRegistrant.swift" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/macos/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/macos/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/macos/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/macos/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/macos/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/macos/Runner/AppDelegate.swift" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_1024.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_128.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_256.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_64.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/macos/Runner/Base.lproj/MainMenu.xib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/macos/Runner/Configs/AppInfo.xcconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/macos/Runner/Configs/Debug.xcconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/macos/Runner/Configs/Release.xcconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/macos/Runner/Configs/Warnings.xcconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/macos/Runner/DebugProfile.entitlements" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/macos/Runner/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/macos/Runner/MainFlutterWindow.swift" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/macos/Runner/Release.entitlements" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/macos/RunnerTests/RunnerTests.swift" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/pubspec.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/pubspec.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/test/widget_test.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/web/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/web/icons/Icon-192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/web/icons/Icon-512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/web/icons/Icon-maskable-192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/web/icons/Icon-maskable-512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/web/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/web/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/windows/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/windows/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/windows/flutter/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/windows/flutter/generated_plugin_registrant.cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/windows/flutter/generated_plugin_registrant.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/windows/flutter/generated_plugins.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/windows/runner/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/windows/runner/Runner.rc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/windows/runner/flutter_window.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/windows/runner/flutter_window.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/windows/runner/main.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/windows/runner/resource.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/windows/runner/resources/app_icon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/windows/runner/runner.exe.manifest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/windows/runner/utils.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/windows/runner/utils.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/windows/runner/win32_window.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/exercise_7/windows/runner/win32_window.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/exercise_5a/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exercise_5a/android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/exercise_5a/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/exercise_5a/android/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,45 +59,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Flutter.camera.dart.executor": "Run",
-    "Flutter.ex6.dart.executor": "Run",
-    "Flutter.googlemap.dart.executor": "Run",
-    "Flutter.hero.dart.executor": "Run",
-    "Flutter.main.dart (1).executor": "Run",
-    "Flutter.main.dart.executor": "Run",
-    "Flutter.radial.dart.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "main",
-    "io.flutter.reload.alreadyRun": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/luqinghuang/Documents/GitHub/-INFO6350_002620397_LuqingHuang/exercises/exercise_4/radial_hero_animation/images",
-    "settings.editor.selected.configurable": "AndroidSdkUpdater",
-    "show.migrate.to.gradle.popup": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Flutter.camera.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Flutter.ex6.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Flutter.googlemap.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Flutter.hero.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Flutter.main.dart (1).executor&quot;: &quot;Run&quot;,
+    &quot;Flutter.main.dart (2).executor&quot;: &quot;Run&quot;,
+    &quot;Flutter.main.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Flutter.radial.dart.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;io.flutter.reload.alreadyRun&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/luqinghuang/Documents/GitHub/-INFO6350_002620397_LuqingHuang/final_project/images&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;AndroidSdkUpdater&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/final_project/images" />
       <recent name="$PROJECT_DIR$/exercises/exercise_4/radial_hero_animation/images" />
       <recent name="$PROJECT_DIR$/exercises/exercise_4/basic hero animation/images" />
       <recent name="$PROJECT_DIR$/Exercises/exercise_3/images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/final_project/lib/itemwidget" />
+      <recent name="$PROJECT_DIR$/final_project/assets" />
+      <recent name="$PROJECT_DIR$/final_project/ios/Runner" />
+      <recent name="$PROJECT_DIR$/final_project/android/app" />
       <recent name="$PROJECT_DIR$/exercises/exercise_6/android/app" />
-      <recent name="$PROJECT_DIR$/exercises/exercise_6/android" />
-      <recent name="$PROJECT_DIR$/exercises" />
-      <recent name="$PROJECT_DIR$/exercises/exercise_5a/image" />
-      <recent name="$PROJECT_DIR$/exercises/exercise_4/images" />
     </key>
   </component>
-  <component name="RunManager" selected="Flutter.main.dart">
+  <component name="RunManager" selected="Flutter.main.dart (2)">
     <configuration name="camera.dart" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/exercises/exercise_5/lib/camera.dart" />
       <method v="2" />
@@ -230,21 +112,21 @@
       <option name="filePath" value="$PROJECT_DIR$/exercises/exercise_5a/lib/main.dart" />
       <method v="2" />
     </configuration>
+    <configuration name="main.dart (2)" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/final_project/lib/main.dart" />
+      <method v="2" />
+    </configuration>
     <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/exercises/exercise_7/lib/main.dart" />
       <method v="2" />
     </configuration>
-    <configuration name="radial.dart" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/exercises/exercise_4/radial_hero_animation/lib/radial.dart" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Flutter.main.dart (2)" />
         <item itemvalue="Flutter.main.dart" />
         <item itemvalue="Flutter.ex6.dart" />
         <item itemvalue="Flutter.main.dart (1)" />
         <item itemvalue="Flutter.camera.dart" />
-        <item itemvalue="Flutter.radial.dart" />
       </list>
     </recent_temporary>
   </component>
@@ -321,7 +203,23 @@
       <option name="project" value="LOCAL" />
       <updated>1733851493997</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="finished app for exercise 7">
+      <option name="closed" value="true" />
+      <created>1733863386262</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1733863386262</updated>
+    </task>
+    <task id="LOCAL-00010" summary="finished app for exercise 7">
+      <option name="closed" value="true" />
+      <created>1733863409304</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1733863409304</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -343,6 +241,18 @@
     <MESSAGE value="finished app for exercise 4" />
     <MESSAGE value="finished app for exercise 5" />
     <MESSAGE value="finished app for exercise 5a" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished app for exercise 5a" />
+    <MESSAGE value="finished app for exercise 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished app for exercise 7" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/final_project/lib/screens/new_postScreen.dart</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
